@@ -1,3 +1,7 @@
+# Changes made to src/App.js to implement solution for fetching data from an API and displaying it using a table.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
